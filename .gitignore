@@ -99,8 +99,4 @@ __queuestorage__
 __azurite_db*__.json
 
 #VS code files
-.vscode/*      
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode
